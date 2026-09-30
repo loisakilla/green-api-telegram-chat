@@ -5,6 +5,8 @@
 
 Тестовое задание на позицию «Фронтенд-разработчик React».
 
+**Демо:** https://loisakilla.github.io/green-api-telegram-chat/
+
 ## Возможности
 
 - Вход по параметрам инстанса GREEN-API: `idInstance`, `apiTokenInstance`, `apiUrl`
